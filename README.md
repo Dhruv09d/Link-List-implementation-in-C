@@ -1,6 +1,6 @@
-**Link list implimentation
+**Link list implimentation**
 
-**Operations:
+**Operations**:
 
   1.Create list                                                                                                                                                                        
   2.Insert in the beggining                                                                                                                                                            
